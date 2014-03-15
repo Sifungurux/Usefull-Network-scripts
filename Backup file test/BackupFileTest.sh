@@ -103,7 +103,3 @@ echo "$RETVAL"
 echo "$RETTXT"
 echo -e "$HOST\t$SERVICE\t$RETVAL\t$RETTXT" | /usr/sbin/send_nsca -H $NSCAHOST -c /etc/send_nsca.cfg
 exit 0
-
-
-^G Get Help                  ^O WriteOut                  ^R Read File                 ^Y Prev Page                 ^K Cut Text                  ^C Cur Pos
-^X Exit                      ^J Justify                   ^W Where Is                  ^V Next Page                 ^U UnCut Text                ^T To Spell
