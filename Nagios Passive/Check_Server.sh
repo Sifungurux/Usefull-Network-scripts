@@ -1,9 +1,9 @@
 #!/bin/sh
 
-HOST=IRD1
+HOST={nagios host}
 SERVICE_DISK=BACKUP
 SERVICE_LOAD=LOAD
-NSCAHOST=192.168.100.165
+NSCAHOST=192.168.x.x
 NOW=$(date +"%m-%d-%y %r")
 CURRENTDIR=`pwd`
 
