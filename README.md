@@ -9,12 +9,8 @@ Contains useful small script to is helpfull to remember tips to shell/bash scrip
 	service if it is down. And write it to a log file
 * Backup	
 	- Backup script
-	This script was made in my ITS project for backup of config files if any reconfig and
-	
-	
-	
-	restore was needed. The script sends the date to a remote server after making a local 
-	backup 
+	This script was made in my ITS project for backup of config files if any reconfig and restore was needed. 
+	The script sends the date to a remote server after making a local backup 
 
 * Puppet
 	- vlan_fact
