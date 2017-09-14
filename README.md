@@ -16,4 +16,11 @@ Contains useful small script to is helpfull to remember tips to shell/bash scrip
 	- vlan_fact
 	Working with Ovirt to retrive the vlan tag set in ovirt.
 	Script is based on an installation of puppet with a Ovirt Hypervisor.	
-	
+
+* Zabbix
+	- cert_expire_check.sh
+	Checks certifications status usefull when using let's encrypt.
+	Can check
+	1. Mail
+	2. Websites
+	3. Sites SNI	
